@@ -9,7 +9,6 @@
         heading.innerHTML = "😄<br />Currently " + temperature + "°C in " + city;
     }
 }
-console.log("Script loaded successfully!");
 
 let changeButton = document.querySelector("button");
 changeButton.addEventListener("click", changeCity);
