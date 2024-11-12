@@ -6,7 +6,7 @@ Project Overview:
 
 The Weather Website provides an interactive and customizable experience where users can view the current temperature and weather in a sample city (Tokyo, by default).
 Update the city and temperature by clicking the Change City button.
-See a different emoji (😄 or ☹️) based on the temperature they enter.
+See a different emoji (😄 or ☹️) based on the temperature they enter. 
 The website is designed to be clean and minimalist, with an emphasis on ease of use and aesthetic appeal.
 
 You can view the live demo [here](https://cleo469.github.io/Weather-Website/)
